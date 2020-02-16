@@ -45,14 +45,15 @@ h2 {
 }
 
 .top-bar-container {
-
+    height: 72px;
 }
 
 .div-logo {
-
+  display: inline-block;
 }
 
 .main-nav {
+  display: inline-block;
   margin: 0 auto;
 }
 
@@ -71,7 +72,7 @@ ul#horizontal-list li {
   height: 30vh;
   margin: auto;
   background-color: #2D2640;
-  background-image: url(images/bg-pattern-intro-right-desktop.svg);
+  background-image: url(images\bg-pattern-intro-right-desktop.svg);
 }
 
 .block {
