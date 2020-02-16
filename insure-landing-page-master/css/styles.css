@@ -50,11 +50,19 @@ h2 {
 .div-logo {
   width: 15%;
   height: 3vh;
-  background: #FAFAFA;
   float: left;
   margin: auto;
   text-align: center;
+  white-space: nowrap;
 }
+
+.div-logo img {
+    background: #FAFAFA;
+    vertical-align: middle;
+    max-height: 3vh;
+    max-width: 15%;
+}
+
 
 .topnav {
   margin-left: 15%;
