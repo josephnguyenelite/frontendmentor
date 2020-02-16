@@ -17,24 +17,39 @@
   text-align: center;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: #3E52A3;
 }
 
 body {
-  width: 100%;
   font-size: 1em;
+  width: 100%;
 }
 
 h1 {
-  font-size: 5.6em;
-  color: hsl(216, 30%, 68%);
+  color: #95A9C6;
+  font-size: 2.6em;
+}
+
+h2 {
+  color: #2D2640;
+  font-size: 2.6em;
+}
+
+.top-bar {
+    left: 0;
+    margin-bottom: 20px;
+    min-height: 62px;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1030;
 }
 
 .top-container {
-  width: 1440px;
+  width: 100%;
   height: 30vh;
   margin: auto;
-  background-color: blue;
+  background-color: #2D2640;
   background-image: url(images\bg-pattern-intro-right-desktop.svg);
 }
 
