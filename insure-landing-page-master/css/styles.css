@@ -11,19 +11,6 @@
 }
 
 /********************************CLEARALL*************************************/
-.top-outer {
-  background-color: transparent;
-}
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-
-.attribution a {
-  color: #3E52A3;
-}
-
 body {
   font-size: 1em;
   width: 100%;
@@ -39,43 +26,19 @@ h2 {
   font-size: 2.6em;
 }
 
-.top-bar {
-  width: 100%;
-  background-color: #2B272F;
-  padding: 0;
-  margin: 0;
+.topnav {
+  background-color: #FAFAFA;
+  overflow: hidden;
 }
 
-.top-bar-container {
-  width: 90%;
-  height: 50px;
-  background: transparent;
-  margin: auto;
-  padding: 10px;
-}
-
-.div-logo {
-  width: 15%;
-  height: 50px;
-  background: #95A9C6;
+.topnav a {
   float: left;
-}
-
-.main-nav {
-  margin-left: 15%;
-  height: 50px;
-  background: #FAFAFA;
-}
-
-.horizontal-list ul {
-  list-style: none;
-  min-width: 696px;
-  padding-top: 20px;
-}
-
-.horizontal-list ul li {
-  display: inline;
-}
+  display: block;
+  color: #95A9C6;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 
 .logo img {
   width: 100%;
@@ -92,3 +55,12 @@ h2 {
 .block {}
 
 .social-media {}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #3E52A3;
+}
