@@ -10,7 +10,7 @@
 	margin: 0;
 	}*/
 /********************************CLEARALL*************************************/
-#top-outer {
+.top-outer {
   background-color: transparent;
 }
 
@@ -49,7 +49,7 @@ h2 {
 }
 
 .div-logo {
-  display: inline-block;
+  display: inline;
 }
 
 .main-nav {
@@ -57,13 +57,13 @@ h2 {
   margin: 0 auto;
 }
 
-ul#horizontal-list {
+ul.horizontal-list {
   min-width: 696px;
   list-style: none;
   padding-top: 20px;
 }
 
-ul#horizontal-list li {
+ul.horizontal-list li {
   display: inline;
 }
 
@@ -72,7 +72,7 @@ ul#horizontal-list li {
   height: 30vh;
   margin: auto;
   background-color: #2D2640;
-  background-image: image(images/bg-pattern-intro-right-desktop.svg);
+  background-image: url(images/bg-pattern-intro-right-desktop.svg);
 }
 
 .block {
