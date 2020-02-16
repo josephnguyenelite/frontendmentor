@@ -72,7 +72,7 @@ ul#horizontal-list li {
   height: 30vh;
   margin: auto;
   background-color: #2D2640;
-  background-image: url(images\bg-pattern-intro-right-desktop.svg);
+  background-image: image(images/bg-pattern-intro-right-desktop.svg);
 }
 
 .block {
