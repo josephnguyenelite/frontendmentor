@@ -10,7 +10,10 @@
 	margin: 0;
 	}*/
 /********************************CLEARALL*************************************/
-
+#menu-outer {
+  height: 70px;
+  background-color: transparent;
+}
 
 .attribution {
   font-size: 11px;
@@ -43,6 +46,19 @@ h2 {
     right: 0;
     top: 0;
     z-index: 1030;
+}
+
+.top-bar-container {
+
+}
+
+.div-logo {
+
+}
+
+.main-nav {
+  display: table;
+  margin: 0 auto;
 }
 
 .top-container {
