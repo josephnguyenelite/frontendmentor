@@ -28,7 +28,7 @@ h2 {
 
 .top-bar {
   width: 100%;
-  background-color: #2B272F;
+  background-color: #FAFAFA;
   padding: 0;
   margin: 0;
 }
@@ -46,6 +46,7 @@ h2 {
   height: 50px;
   background: #FAFAFA;
   float: left;
+  margin: auto;
 }
 
 .topnav {
