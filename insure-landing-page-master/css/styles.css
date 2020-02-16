@@ -20,6 +20,14 @@ body {
   font-size: 1em;
 }
 
+.top-container {
+  width: 1440px;
+  height: 30vh;
+  margin: auto;
+  background-color: blue;
+  background-image: url(images\bg-pattern-intro-right-desktop.svg);
+}
+
 .block {
   background-color: purple;
   background-image: url();

@@ -24,7 +24,7 @@ The designs were created to the following widths:
 
 ### Body Copy
 
-- Font size: 16px
+DONE! ### - Font size: 16px
 
 ### Headings
 
