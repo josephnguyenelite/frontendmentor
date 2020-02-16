@@ -12,12 +12,22 @@
 /********************************CLEARALL*************************************/
 
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
 
 body {
   width: 100%;
   font-size: 1em;
+}
+
+h1 {
+  font-size: 5.6em;
+  color: hsl(216, 30%, 68%);
 }
 
 .top-container {
@@ -29,8 +39,6 @@ body {
 }
 
 .block {
-  background-color: purple;
-  background-image: url();
 }
 
 .social-media {
