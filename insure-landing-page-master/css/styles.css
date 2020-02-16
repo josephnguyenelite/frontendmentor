@@ -83,6 +83,13 @@ h2 {
   vertical-align: middle;
 }
 
+.nav-button {
+  width: 150px;
+  height: 100px;
+  float: right;
+  display: table;
+}
+
 .logo img {
   width: 100%;
 }
