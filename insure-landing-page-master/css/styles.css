@@ -41,6 +41,13 @@ h2 {
   padding: 10px;
 }
 
+.div-logo {
+  width: 15%;
+  height: 50px;
+  background: #95A9C6;
+  float: left;
+}
+
 .topnav {
   background-color: #FAFAFA;
   overflow: hidden;
