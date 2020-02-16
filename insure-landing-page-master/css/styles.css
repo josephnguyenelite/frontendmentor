@@ -35,7 +35,7 @@ h2 {
 
 .top-bar-container {
   width: 90%;
-  height: 50px;
+  height: 3vh;
   background: transparent;
   margin: auto;
   padding: 10px;
@@ -43,7 +43,7 @@ h2 {
 
 .div-logo {
   width: 15%;
-  height: 50px;
+  height: 3vh;
   background: #FAFAFA;
   float: left;
   margin: auto;
@@ -52,7 +52,7 @@ h2 {
 
 .topnav {
   margin-left: 15%;
-  height: 50px;
+  height: 3vh;
   background: #FAFAFA;
 }
 
