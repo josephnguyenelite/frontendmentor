@@ -1,4 +1,4 @@
-/** {
+* {
 	vertical-align: baseline;
 	font-weight: inherit;
 	font-family: inherit;
@@ -8,7 +8,7 @@
 	outline: 0;
 	padding: 0;
 	margin: 0;
-	}*/
+	}
 /********************************CLEARALL*************************************/
 .top-outer {
   background-color: transparent;
@@ -38,23 +38,31 @@ h2 {
 }
 
 .top-bar {
-    margin-bottom: 20px;
-    min-height: 62px;
-    position: fixed;
-    z-index: 1030;
+  width: 100%;
+  background-color: #2B272F;
+  padding: 0;
+  margin: 0;
 }
 
 .top-bar-container {
-    height: 72px;
+  width: 90%;
+  height: 50px;
+  background: transparent;
+  margin: auto;
+  padding: 10px;
 }
 
 .div-logo {
-  display: inline;
+  width: 15%;
+  height: 50px;
+  background: #95A9C6;
+  float: left;
 }
 
 .main-nav {
-  display: inline-block;
-  margin: 0 auto;
+  margin-left: 15%;
+  height: 50px;
+  background: #FAFAFA;
 }
 
 ul.horizontal-list {
