@@ -72,22 +72,23 @@ h2 {
   text-align: center;
 }
 
-.nav-button a{
-  float: right;
-  display: table-cell;
-  color: #95A9C6;
-  text-align: center;
-  padding: 0 16px 0 0;
-  text-decoration: none;
-  font-size: 17px;
-  vertical-align: middle;
-}
 
 .nav-button {
   width: 150px;
   height: 100px;
   float: right;
   display: table;
+}
+
+.nav-button a{
+  float: right;
+  display: table-cell;
+  color: #95A9C6;
+  text-align: center;
+  padding: 0;
+  text-decoration: none;
+  font-size: 17px;
+  vertical-align: middle;
 }
 
 .logo img {
