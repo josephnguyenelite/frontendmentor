@@ -10,8 +10,7 @@
 	margin: 0;
 	}*/
 /********************************CLEARALL*************************************/
-#menu-outer {
-  height: 70px;
+#top-outer {
   background-color: transparent;
 }
 
@@ -57,7 +56,6 @@ h2 {
 }
 
 .main-nav {
-  display: table;
   margin: 0 auto;
 }
 
