@@ -41,7 +41,7 @@ h2 {
 
 .top-bar-container {
   width: 80%;
-  height: 5vh;
+  height: 100px;
   background: transparent;
   margin: auto;
   padding: 10px;
@@ -49,7 +49,7 @@ h2 {
 
 .div-logo {
   width: 15%;
-  height: 3vh;
+  height: 100px;
   float: left;
   margin: auto;
   text-align: center;
@@ -59,20 +59,22 @@ h2 {
 .div-logo img {
     background: #FAFAFA;
     vertical-align: middle;
-    max-height: 3vh;
+    max-height: 100px;
     max-width: 100%;
 }
 
 
 .topnav {
   margin-left: 15%;
-  height: 3vh;
+  height: 100px;
   background: #FAFAFA;
+  vertical-align: middle;
+  text-align: center;
 }
 
 .topnav a {
   float: right;
-  display: block;
+  display: inline-block;
   color: #95A9C6;
   text-align: center;
   padding: 0 16px 0 0;
