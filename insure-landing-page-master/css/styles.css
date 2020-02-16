@@ -72,7 +72,7 @@ h2 {
   text-align: center;
 }
 
-.topnav a {
+.nav-button a{
   float: right;
   display: inline-block;
   color: #95A9C6;
