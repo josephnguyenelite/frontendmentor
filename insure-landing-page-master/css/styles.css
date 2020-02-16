@@ -26,6 +26,12 @@ h2 {
   font-size: 2.6em;
 }
 
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
 .top-bar {
   width: 100%;
   background-color: #FAFAFA;
