@@ -65,11 +65,8 @@ h2 {
 
 
 .topnav {
-  margin-left: 15%;
   height: 100px;
   background: #FAFAFA;
-  vertical-align: middle;
-  text-align: center;
 }
 
 
@@ -81,7 +78,6 @@ h2 {
 }
 
 .nav-button a{
-  float: right;
   display: table-cell;
   color: #95A9C6;
   text-align: center;
